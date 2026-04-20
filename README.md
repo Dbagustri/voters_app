@@ -1,10 +1,9 @@
----
+
 
 # 🗳️ Stellar Voting DApp
 
 **Stellar Voting DApp** – Blockchain-Based Decentralized Voting System
 
----
 
 ## 📌 Project Description
 
